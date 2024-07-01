@@ -1,1 +1,6 @@
-print('My name is Dakarapu jayasri')
+hungry=input("are you hungry?")
+if hungry=="yes":
+    print("eat samosa")
+else:
+    print("do your work")
+    
